@@ -1,0 +1,78 @@
+[
+  {
+    "station": "忠孝新生",
+    "current_time": "2020-12-01T12:00:00Z",
+    "schedule": [
+      {
+        "line": "中和新蘆線",
+        "destination": "南勢角",
+        "status": "進站中",
+        "arrival_time": "2020-12-01T12:00:00Z",
+        "departure": "迴龍"
+      },
+      {
+        "line": "板南線",
+        "destination": "亞東醫院",
+        "status": "進站中",
+        "arrival_time": "2020-12-01T12:00:00Z",
+        "departure": "南港展覽館"
+      },
+      {
+        "line": "板南線",
+        "destination": "頂埔",
+        "status": "台北車站",
+        "arrival_time": "2020-12-01T12:10:00Z",
+        "departure": "南港展覽館"
+      },
+      {
+        "line": "中和新蘆線",
+        "destination": "迴龍",
+        "status": "忠孝新生",
+        "arrival_time": "2020-12-01T12:12:00Z",
+        "departure": "南勢角"
+      },
+      {
+        "line": "板南線",
+        "destination": "南港展覽館",
+        "status": "忠孝復興",
+        "arrival_time": "2020-12-01T12:15:00Z",
+        "departure": "頂埔"
+      },
+      {
+        "line": "中和新蘆線",
+        "destination": "南勢角",
+        "status": "東門",
+        "arrival_time": "2020-12-01T12:18:00Z",
+        "departure": "迴龍"
+      },
+      {
+        "line": "板南線",
+        "destination": "亞東醫院",
+        "status": "善導寺",
+        "arrival_time": "2020-12-01T12:20:00Z",
+        "departure": "南港展覽館"
+      },
+      {
+        "line": "板南線",
+        "destination": "頂埔",
+        "status": "西門",
+        "arrival_time": "2020-12-01T12:25:00Z",
+        "departure": "南港展覽館"
+      },
+      {
+        "line": "中和新蘆線",
+        "destination": "迴龍",
+        "status": "松江南京",
+        "arrival_time": "2020-12-01T12:30:00Z",
+        "departure": "南勢角"
+      },
+      {
+        "line": "板南線",
+        "destination": "南港展覽館",
+        "status": "忠孝新生",
+        "arrival_time": "2020-12-01T12:38:00Z",
+        "departure": "頂埔"
+      }
+    ]
+  }
+]
